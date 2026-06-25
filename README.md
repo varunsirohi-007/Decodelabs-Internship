@@ -8,11 +8,9 @@ This project demonstrates an end-to-end **Data Analytics workflow**, starting fr
 
 ## 🛠️ Tools & Technologies Used
 
-* **Python (Pandas)** – Data cleaning and preprocessing
-* **Excel** – Initial data inspection and validation
+* **Excel** – Data Cleaning
 * **SQL** – Data querying and business analysis
-* **CSV/Excel Files** – Data storage and management
-
+  
 ---
 
 ## 📂 Project Structure
